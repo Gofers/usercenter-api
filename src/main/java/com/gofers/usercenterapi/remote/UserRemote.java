@@ -4,6 +4,9 @@ import com.gofers.usercenterapi.entity.UserInfo;
 
 import java.util.List;
 
+/**
+ * @author 73956
+ */
 public interface UserRemote {
 
 
